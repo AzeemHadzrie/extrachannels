@@ -1,0 +1,39 @@
+#EXTM3U max-conn="8"
+#EXTINF:1 group-title="Chinese" tvg-id="320" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/tvbs-asia-hk.png",TVBS Asia (without delays)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:1 group-title="Japanese" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:1 group-title="Korean" tvg-id="392" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/international/kbs-world-int.png",KBS World (without Astro commercials and delays)
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:1 group-title="Singapore - Local" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/singapore/live-1-sg.png",meWatch Live 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:1 group-title="News" tvg-id="515" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/singapore/cna-sg.png",CNA (without delays)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:1 group-title="News" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/international/wion-int.png",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/new-zealand/juice-tv-nz.png",Juice TV
+https://i.mjh.nz/.r/juice-tv.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/new-zealand/juice-x-nz.png",Juice X
+https://i.mjh.nz/.r/juice-x.m3u8
+#EXTINF:1 group-title="News" tvg-id="CHN",NBT World
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
+#EXTINF:1 group-title="News" tvg-id="512" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-kingdom/bbc-news-uk.png",BBC News (without Astro commercials and delays)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:1 group-title="News" tvg-id="CHN",TaiwanPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:1 group-title="News" tvg-id="517" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-states/bloomberg-television-us.png",Bloomberg (without delays)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:1 group-title="News" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-states/bloomberg-live-events-us.png",Bloomberg Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:1 group-title="News" tvg-id="502" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/international/cgtn-int.png",CGTN (without delays)
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/misc/vod/qello-concerts-by-stingray-vod.png",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/canada/stingray-classica-ca.png",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/canada/stingray-cmusic-ca.png",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/france/stingray-djazz-fr.png",Stingray DJazz
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/misc/vod/stingray-naturescape-vod-us.png",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
