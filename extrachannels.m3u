@@ -37,3 +37,7 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/misc/vod/stingray-naturescape-vod-us.png",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:1 group-title="News" tvg-id="CHN",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:1 group-title="News" tvg-id="CHN",VTV4
+http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
