@@ -8,17 +8,23 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:1 group-title="Singapore - Local" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/singapore/live-1-sg.png",meWatch Live 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:1 group-title="News" tvg-id="515" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/singapore/cna-sg.png",CNA (without delays)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:1 group-title="News" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/international/wion-int.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/new-zealand/juice-tv-nz.png",Juice TV
-https://i.mjh.nz/.r/juice-tv.m3u8
-#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/new-zealand/juice-x-nz.png",Juice X
-https://i.mjh.nz/.r/juice-x.m3u8
+https://i.mjh.nz/.r/mood-1290.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",The Box
+https://i.mjh.nz/.r/mood-1289.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",Melo
+https://i.mjh.nz/.r/mood-1288.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",The Groat
+https://i.mjh.nz/.r/mood-1287.m3u8
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",Big Rig
+https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:1 group-title="News" tvg-id="CHN",NBT World
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 #EXTINF:1 group-title="News" tvg-id="512" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-kingdom/bbc-news-uk.png",BBC News (without Astro commercials and delays)
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://i.mjh.nz/.r/bbc-news.m3u8
 #EXTINF:1 group-title="News" tvg-id="CHN",TaiwanPlus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:1 group-title="News" tvg-id="517" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-states/bloomberg-television-us.png",Bloomberg (without delays)
@@ -41,3 +47,4 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:1 group-title="News" tvg-id="CHN",VTV4
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
+
