@@ -13,13 +13,13 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/new-zealand/juice-tv-nz.png",Juice TV
 https://i.mjh.nz/.r/mood-1290.m3u8
-#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",The Box
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1751859651455.png",The Box
 https://i.mjh.nz/.r/mood-1289.m3u8
-#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",Melo
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1744280017571.png",Melo
 https://i.mjh.nz/.r/mood-1288.m3u8
-#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",The Groat
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1742379839684.jpg",The Groat
 https://i.mjh.nz/.r/mood-1287.m3u8
-#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="",Big Rig
+#EXTINF:1 group-title="Music" tvg-id="CHN" tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1742379861048.jpg",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:1 group-title="News" tvg-id="CHN",NBT World
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
@@ -47,4 +47,5 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:1 group-title="News" tvg-id="CHN",VTV4
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
+
 
